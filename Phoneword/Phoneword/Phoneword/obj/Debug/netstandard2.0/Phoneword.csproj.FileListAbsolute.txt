@@ -11,3 +11,17 @@ D:\Projects\MobileApplications\Phoneword\Phoneword\Phoneword\obj\Debug\netstanda
 D:\Projects\MobileApplications\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
 D:\Projects\MobileApplications\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
 D:\Projects\MobileApplications\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\ref\Phoneword.dll
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\Projects\MobileApplications-git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

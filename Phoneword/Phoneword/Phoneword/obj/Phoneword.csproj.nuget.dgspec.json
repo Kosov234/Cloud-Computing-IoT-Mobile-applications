@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {}
+    "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
+    "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectUniqueName": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectPath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
         "packagesPath": "C:\\Users\\KosovPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\obj\\",
+        "outputPath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

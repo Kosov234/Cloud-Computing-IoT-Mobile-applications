@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImlZYPCpRrDkPtg71HQdeqdZwYbGrV1oE++dg3DbwkSUKzJSsX5KCLu5WFBn+cvqaoZ+Xkb4/f5tnb0wjYVZRQ==",
+  "dgSpecHash": "gR1LDvQ+1eFVGZsChdVjDFPwWPocW5zOIL0/mDX5vAGfnair83QwgnL/OF6mqebuyNLSgm9ekT/TPpkGLOKR4Q==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+  "projectFilePath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KosovPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

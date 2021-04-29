@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+      "projectUniqueName": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
       "projectName": "Phoneword.Android",
-      "projectPath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+      "projectPath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
       "packagesPath": "C:\\Users\\KosovPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword.Android\\obj\\",
+      "outputPath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
-              "projectPath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj"
+            "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
+              "projectPath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj"
             }
           }
         }

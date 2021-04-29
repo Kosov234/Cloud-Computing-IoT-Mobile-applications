@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5PTILUV1V/Y3ICWBbjV75mP67EiFWskUyereYs+bOZ0Oo3u5csFw9evjMHbuD/OEdESG3zJcmo/F2DIGH5JGg==",
+  "dgSpecHash": "KWDaO5Dk+Rz4Gy4C8Kfh10lr1ih59wIHudTW6c/dVQtR0rjOcPRtT4zmHcAvIXXT/yMBLp5mP74Hta2kcxMzqw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\MobileApplications\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "projectFilePath": "D:\\Projects\\MobileApplications-git\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KosovPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\KosovPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
