@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_Lab3.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="People App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="imgPhoto" Grid.Row="0"/>
+            <StackLayout Grid.Row="1">
+                <Button x:Name="btnPhoto" Text="Take a picture"/>
+                <Entry x:Name="entryFirstName" Placeholder="First name"/>
+                <Entry x:Name="entryLastName" Placeholder="Last name"/>
+                <Entry x:Name="entryPhoneNumber" Placeholder="Phone number" Keyboard="Telephone"/>
+            </StackLayout>
+            <Button x:Name="btnSave" Text="Save data" Grid.Row="2"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
