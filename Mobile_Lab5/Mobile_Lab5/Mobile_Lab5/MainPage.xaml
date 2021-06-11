@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_Lab5.MainPage">
+
+    <StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Label Margin="0,0,0,10" Text="Geolocation" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" ></Label>
+            <Button x:Name="btnLocation" Text="Get Current Location" Clicked="btnLocation_Clicked"/>
+            <Button x:Name="btnNavigate" Text="Navigate to Microsoft Office" Clicked="btnNavigate_Clicked"/>
+            <Button x:Name="btnShare" Text="Share location" Clicked="btnShare_Clicked"/>
+            <Label HorizontalTextAlignment="Center" x:Name="lblLatitude"></Label>
+            <Label HorizontalTextAlignment="Center" x:Name="lblLongitude"></Label>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
